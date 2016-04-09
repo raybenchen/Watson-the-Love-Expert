@@ -1,6 +1,6 @@
 # Watson, The Love Expert!
 
-## [Live Demo](http://watsonlove.mybluemix.net/)
+## [Live Demo](http://watsonlove.mybluemix.net/) 
 
 ## Prereq's for Bluemix
 
